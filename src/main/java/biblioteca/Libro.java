@@ -14,8 +14,10 @@ public class Libro {
 
     // TODO: Documentar este método
     // TODO: Testear este método
+
     /**
      * Constructor con los atributos mostrados anteriormente y sus diferentes metodos
+     *
      * @param titulo
      * @param autor
      * @param anioPublicacion
@@ -35,8 +37,10 @@ public class Libro {
     }
 
     // TODO: Documentar este método
+
     /**
      * Obtiene el autor del libro
+     *
      * @return autor del libro
      */
     public String getAutor() {
@@ -48,8 +52,10 @@ public class Libro {
     }
 
     // TODO: Documentar este método
+
     /**
      * Obtiene el año de publicacion de un libro
+     *
      * @return anioPublicacion del libro
      */
     public int getAnioPublicacion() {
